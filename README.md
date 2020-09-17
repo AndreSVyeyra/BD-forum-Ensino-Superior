@@ -1,5 +1,8 @@
 # Objetivo: Descreva inicialmente o objetivo do banco de dados criado, e qual tipo de solução isso poderia se aplicar. (Ex.: Meu projeto possui as tabelas Fornecedores e Representantes, natural em um módulo de compras.)
 
+![giphy-6](https://user-images.githubusercontent.com/56928555/93413257-373f9f80-f875-11ea-929c-b48625f2eb14.gif)
+
+
 ## Script SQL:
 
 ## 1 – Criação do banco de dados:

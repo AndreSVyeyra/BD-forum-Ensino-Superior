@@ -109,3 +109,9 @@ INNER JOIN horario
 ON aluno.id_horario_aula = horario.id
 
 WHERE horario.descricao LIKE '%Manhã';
+
+
+
+
+![earlyacess](https://user-images.githubusercontent.com/56928555/93413491-c5b42100-f875-11ea-809b-15d000b68de3.gif)
+
